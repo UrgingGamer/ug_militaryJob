@@ -33,7 +33,7 @@
   </ol>
 </details>
 
-<h3 align="center">I hope you liked this Script. Don't forget to download all dependencies to work. If it doesn't work or bugs found, you can report the bugs "<a href="https://github.com/UrgingGamer/ug_militaryJob/issues>clicking here!</a></h3>
+<h3 align="center">I hope you liked this Script. Don't forget to download all dependencies to work. If it doesn't work or bugs found, you can report the bugs <a href="https://github.com/UrgingGamer/ug_militaryJob/issues">clicking here!</a></h3>
 
 
 
@@ -72,4 +72,4 @@
   </ol>
 </details>
 
-<h3 align="center">Espero que goste deste meu primeiro script! Em caso de bugs ou dúvidas, não hesite a contactar "<a href="https://github.com/UrgingGamer/ug_militaryJob/issues>clicking here!</a></h3>
+<h3 align="center">Espero que goste deste meu primeiro script! Em caso de bugs ou dúvidas, não hesite a contactar <a href="https://github.com/UrgingGamer/ug_militaryJob/issues">clicking here!</a></h3>
